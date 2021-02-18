@@ -1,0 +1,21 @@
+<main>
+    <article id='articleone'>
+      <h2>Yann Nzirabatinyi</h2>
+      <imag src="dwayne.jpg" alt="The best man" width="500" height="600"
+      <p class="intro">lorem ipsum dolor sit amet,</article><a href="https://www.w3schools.com">Visit W3Schools</a></p>
+      <p>Businesses play a huge role in culture and society in general. They not only take up the most amount of time in most people's lives, but they also help create innovations and make important technological advancements.</p>
+      <p>On a most basic level, business provides a means of income for a population. People need money to not only survive, but to enjoy their lives. In exchange for their</p>
+      <p>IT issues are something you can't avoid, so having the right team is essential. Keep reading to learn why IT support for business is important.</p>
+      <blockquote cite="http://www.enotes.com/who/index.html"></blockquote>
+     
+  </main>
+
+    <article id="articletwo"
+        <h2>My Hobbies</h2>
+        <p class="intro">Lorem ipsum dolor sit amet,consectetur adipiscing</p>
+        <p>Proin consequat, augue et pellentesque commode,dolor sapion</p>
+        <ul>
+          <li>Football</li>
+          <li>Sleeping</li>
+          <li>eating</li>
+        </ul>
